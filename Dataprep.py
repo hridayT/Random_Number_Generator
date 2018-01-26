@@ -2042,4 +2042,6 @@ file.write(str(compute(199700)) + '\n')
 file.write(str(compute(199800)) + '\n')
 file.write(str(compute(199900)) + '\n')
 
+print("Testing git branch")
+
 file.close()
